@@ -46,12 +46,11 @@ Any tools, scripts, projects, or other resources found on the public side of thi
 ## Where to Find Us
 
 - Site: [Frontsight.vc](https://www.frontsight.vc/)
-- Newsletter: [Burn After Reading] (https://burnafterreading.beehiiv.com/subscribe?ref=X4HBklQwNg)
+- Newsletter: [Burn After Reading](https://burnafterreading.beehiiv.com/subscribe?ref=X4HBklQwNg)
 - Discord: [SYNDICATE](https://discord.com/invite/overt-operator-967221648635871283)
 - Apple Podcast: [America Builds with Will Allen and Hayley Menser](https://podcasts.apple.com/us/podcast/america-builds/id1675629568)
 - Spotify: [America Builds with Will Allen and Hayley Menser](https://open.spotify.com/show/36yFqCYCI34x5LLYsP3Dz8?si=a36ef4a7bcd64a27&nd=1&dlsi=dcd95ec2ff19469f)
 - LinkedIn: [Frontsight Company Page](https://www.linkedin.com/company/frontsight-vc/)
 - YouTube: [Frontsight Media](https://www.youtube.com/@FrontsightMedia)
-
 
 Thank you for visiting our GitHub page!
