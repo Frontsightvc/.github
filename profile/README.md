@@ -1,3 +1,6 @@
+![Header](./github-header-image.png)
+
+
 # Welcome to Frontsight
 
 ## About Us
